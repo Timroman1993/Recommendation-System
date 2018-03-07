@@ -5,6 +5,8 @@ import pandas as pd
 import os
 import time
 
+# test
+
 np.random.seed(1)
 
 #load the training data and make it become what we want---train.csv 
